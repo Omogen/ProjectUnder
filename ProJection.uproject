@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "RefreshAllNodes",
+			"Enabled": true
 		}
 	]
 }
